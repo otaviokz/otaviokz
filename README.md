@@ -10,6 +10,7 @@ I am an experienced iOS developer seeking assignments in agile environments wher
 
 - **Location:** Porto Alegre, Brazil
 - **Email:** [otaviokz@gmail.com](mailto:otaviokz@gmail.com)
+- **Portfolio** [otaviozabaleta.com](http://otaviozabaleta.com)
 
 ### [Gists](https://gist.github.com/otaviokz)
 
@@ -73,10 +74,10 @@ iOS Developer
 - **Swift:** Senior
 - **SwiftUI:** Senior
 - **UIKit:** Senior
-- **SwiftData:** Intermediate
+- **SwiftData:** Advanced
 - **CoreData:** Intermediate
-- **Async Await:** Learning/Intermediate
-- **Structured Concurrency:** Learning
+- **Async Await:** Intermediate
+- **Structured Concurrency:** Intermediate
 - **Combine:** Advanced
 - **GCD:** Intermediate
 - **ViewCode / Autolayout:** Senior
