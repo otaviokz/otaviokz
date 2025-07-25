@@ -11,6 +11,8 @@ I am an experienced iOS developer seeking assignments in agile environments wher
 - **Location:** Porto Alegre, Brazil
 - **Email:** [otaviokz@gmail.com](mailto:otaviokz@gmail.com)
 
+### [Gists](https://gist.github.com/otaviokz)
+
 ## Professional Experience
 
 ### Foursys (Oct 2024 – Present)
