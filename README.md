@@ -1,7 +1,5 @@
 # <span style="color: blue;">Otavio Zabaleta's Portfolio</span>
 
-![Profile Image](https://otaviokz.github.io/assets/images/profile.png)
-
 Welcome to my portfolio repository! Here you'll find information about my professional experience, personal projects, and technical skills.
 
 ## About Me
