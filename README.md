@@ -13,7 +13,9 @@ I am an experienced iOS developer seeking assignments in agile environments wher
 - **Portfolio** [otaviozabaleta.com](http://otaviozabaleta.com)
 
 ### [Gists](https://gist.github.com/otaviokz)
-
+- [Convert CSV files to 'swift decodable' json](https://gist.github.com/otaviokz/568084ebcd8c08883160c1433637ee3f)
+- [SwiftUI 'Bordered view modifier'](https://gist.github.com/otaviokz/82aac6aa442c8493fa9f29206ea2ac78)
+- [SwiftUI 'ScreenOrientation' view modifier](https://gist.github.com/otaviokz/5aa0d98986b841543ae94fb5998b19fd)
 ## Professional Experience
 
 ### Foursys (Oct 2024 – Present)
