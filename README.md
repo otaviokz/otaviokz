@@ -4,12 +4,19 @@ Welcome to my portfolio repository! Here you'll find information about my profes
 
 ## About Me
 
-I am an experienced iOS developer seeking assignments in agile environments where I can work on challenging native iOS apps, whether they are greenfield or ongoing projects.
+I’m a Software Engineer with a strong background in iOS development and an incurable curiosity for how things work under the hood.
 
+Lately, that curiosity has led me into the world of Data Science and AI engineering, where I’m learning the ropes using Python and its usual accomplices — Pandas, NumPy, PyTorch, and friends.
+
+If you enjoy thoughtful explorations, practical insights, and the occasional lesson learned the hard way, you may feel at home here.
+I write here mostly about iOS and AI-adjacent Python topics. Some posts draw from areas I know well; others document things I’m learning in real time. I find that writing is one of the best ways to truly understand something — if you can explain it clearly, you probably know it.
+
+
+- **Medium** [@otaviokz/about](https://medium.com/@otaviokz/about)
+- **Portfolio** [otaviozabaleta.com](http://otaviozabaleta.com)
 - **Location:** Porto Alegre, Brazil
 - **Email:** [otaviokz@gmail.com](mailto:otaviokz@gmail.com)
-- **Portfolio** [otaviozabaleta.com](http://otaviozabaleta.com)
-
+  
 ### [Gists](https://gist.github.com/otaviokz)
 - [Convert CSV files to 'swift decodable' json](https://gist.github.com/otaviokz/568084ebcd8c08883160c1433637ee3f)
 - [SwiftUI 'Bordered view modifier'](https://gist.github.com/otaviokz/82aac6aa442c8493fa9f29206ea2ac78)
